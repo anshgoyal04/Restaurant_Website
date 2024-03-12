@@ -5,4 +5,4 @@
 
 👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
 
-![Demo](demo.gif)
+![Demo](img/demo.gif)
